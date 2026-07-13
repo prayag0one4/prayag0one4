@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Prayag Raj 👋
 
-<!--
-**prayag0one4/prayag0one4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
+🌱 Currently learning Open Source
+🎓 CSE @ IIIT Kota '27
 
-Here are some ideas to get you started:
+## Tech Stack
+- React
+- Next.js
+- Node.js
+- TypeScript
+- PostgreSQL
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+🚀 VersionVista
+💳 PayU
+📦 MagnetDrop
+
+## Connect with me
+- LinkedIn: https://linkedin.com/in/prayag-raj22
+- GitHub: https://github.com/prayag0one4
