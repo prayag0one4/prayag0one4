@@ -6,9 +6,9 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/prayag-raj22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:rajprayag014@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://versionvista.iamprayag.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+    <a href="https://linkedin.com/in/prayag-raj22" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:rajprayag014@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://portfolio.iamprayag.space" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
 
@@ -27,8 +27,8 @@
 
 | Project | Description | Tech Stack | Live / Code |
 | :--- | :--- | :--- | :--- |
-| **[VersionVista](https://github.com/prayag0one4/VersionVista)** | Comprehensive version management and deployment tracking platform. Features repository state snapshots, commit comparison diffing, and automated state synchronization. | `TypeScript` `React` `Node.js` `PostgreSQL` | [🌐 Live App](https://versionvista.iamprayag.space) &bull; [💻 Repository](https://github.com/prayag0one4/VersionVista) |
-| **[PayU &bull; Student Wallet](https://github.com/prayag0one4/student-wallet)** | Full-stack digital wallet and simulated payment system supporting multi-party transfers, real-time ledger accounting, and responsive UX. | `JavaScript` `Next.js` `Tailwind CSS` `REST APIs` | [🌐 Live Demo](https://pay-u-seven.vercel.app) &bull; [💻 Repository](https://github.com/prayag0one4/student-wallet) |
+| <a href="https://github.com/prayag0one4/VersionVista" target="_blank" rel="noopener noreferrer"><strong>VersionVista</strong></a> | Comprehensive version management and deployment tracking platform. Features repository state snapshots, commit comparison diffing, and automated state synchronization. | `TypeScript` `React` `Node.js` `PostgreSQL` | <a href="https://versionvista.iamprayag.space" target="_blank" rel="noopener noreferrer">🌐 Live App</a> &bull; <a href="https://github.com/prayag0one4/VersionVista" target="_blank" rel="noopener noreferrer">💻 Repository</a> |
+| <a href="https://github.com/prayag0one4/student-wallet" target="_blank" rel="noopener noreferrer"><strong>PayU &bull; Student Wallet</strong></a> | Full-stack digital wallet and simulated payment system supporting multi-party transfers, real-time ledger accounting, and responsive UX. | `JavaScript` `Next.js` `Tailwind CSS` `REST APIs` | <a href="https://pay-u-seven.vercel.app" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a> &bull; <a href="https://github.com/prayag0one4/student-wallet" target="_blank" rel="noopener noreferrer">💻 Repository</a> |
 
 ---
 
