@@ -82,16 +82,11 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prayag0one4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" alt="Prayag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayag0one4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" height="165" alt="Prayag's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prayag0one4&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=7aa2f7&line=7aa2f7&point=2ac3de&area=true" width="100%" alt="Prayag's Contribution Activity Graph" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayag0one4&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Prayag's GitHub Streak" />
-</p>
 
 ---
 
