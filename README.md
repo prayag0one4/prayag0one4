@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm Prayag Raj 👋</h1>
   <p align="center">
-    <strong>Open Source Contributor &bull; Full-Stack &amp; Systems Engineer</strong><br>
+    <strong>Full-Stack &amp; Systems Engineer &bull; Open Source Contributor</strong><br>
     <em>Computer Science &amp; Engineering @ IIIT Kota ('27)</em>
   </p>
 
@@ -17,23 +17,9 @@
 ### 👨‍💻 About Me
 
 - 🌐 **Systems & Full-Stack:** Building scalable web applications, developer platforms, and cloud-native infrastructure.
-- 🚀 **Open Source:** Actively contributing to major open-source ecosystems including **Podman**, **Flatcar Container Linux**, **Nebraska**, and **npm CLI**.
+- 🚀 **Open Source:** Actively exploring and contributing to modern developer ecosystems and cloud-native tooling.
 - 🔬 **Core Interests:** Container internals (OCI/Linux), backend distributed systems, Go/TypeScript engineering, and AI agent architectures (MCP).
 - 🎓 **Education:** B.Tech in Computer Science and Engineering, **IIIT Kota** (2023 - 2027).
-
----
-
-### 🌟 Featured Open Source Contributions
-
-I contribute real-world bug fixes, performance optimizations, and infrastructure tooling to production open-source systems:
-
-| Organization / Project | Key Contributions & PRs | Focus Area | Stack |
-| :--- | :--- | :--- | :--- |
-| **[containers / podman](https://github.com/containers/podman)** | • [PR #29302](https://github.com/containers/podman/pull/29302): Fix `testvol` mock driver unmounted volume path error handling<br>• [PR #29300](https://github.com/containers/podman/pull/29300): Propagate `MountCount` errors in `VolumeMounted`<br>• [PR #29274](https://github.com/containers/podman/pull/29274): Clean up container hostname short ID parsing<br>• [PR #29294](https://github.com/containers/podman/pull/29294): Prevent deferred event emissions on failed container updates | OCI Container Engine &amp; Storage Drivers | `Go` `OCI` `Linux` |
-| **[flatcar / Flatcar](https://github.com/flatcar/Flatcar)** | • [PR #2229](https://github.com/flatcar/Flatcar/pull/2229): **Merged** — Algorithmic refactor of `parse()` from $\mathcal{O}(n^2)$ to $\mathcal{O}(n)$ eliminating index errors<br>• [PR #2235](https://github.com/flatcar/Flatcar/pull/2235): **Merged** — Fix string interpolation quotes in metrics workflow<br>• [PR #2234](https://github.com/flatcar/Flatcar/pull/2234): Add isolated error handling for subprocesses and GitHub API sync | Container Linux OS &amp; Automation Workflows | `Python` `CI/CD` `Linux` |
-| **[flatcar / nebraska](https://github.com/flatcar/nebraska)** | • [PR #1490](https://github.com/flatcar/nebraska/pull/1490): Refresh and return updated instance state on partial registration<br>• [PR #1489](https://github.com/flatcar/nebraska/pull/1489): Fix product ID regex character class typo and pre-compile pattern | Cloud-native Omaha Update Server | `Go` `PostgreSQL` |
-| **[npm / cli](https://github.com/npm/cli)** | • [PR #9763](https://github.com/npm/cli/pull/9763): Document breaking change in lifecycle script blocking for npm v12 release | Package Management Documentation | `JavaScript` `Docs` |
-| **[DietrichGebert / ponytail](https://github.com/DietrichGebert/ponytail)** | • [PR #601](https://github.com/DietrichGebert/ponytail/pull/601): Resolve Claude.ai marketplace validation errors<br>• [PR #600](https://github.com/DietrichGebert/ponytail/pull/600): Modularize OpenCode frontmatter parser out of plugins directory | AI Agent Discipline &amp; Code Quality Tools | `TypeScript` `Node.js` |
 
 ---
 
@@ -110,5 +96,5 @@ I contribute real-world bug fixes, performance optimizations, and infrastructure
 ---
 
 <div align="center">
-  <sub>Open to software engineering internships &amp; open-source collaborations &bull; Let's connect!</sub>
+  <sub>Open to software engineering internships &amp; collaborative engineering &bull; Let's connect!</sub>
 </div>
