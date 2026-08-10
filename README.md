@@ -38,12 +38,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 Featured Open Source Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=prayag0one4&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prayag0one4&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
+I contribute real-world bug fixes, performance optimizations, and infrastructure tooling to production open-source systems:
+
+| Organization / Project | Key Contributions & PRs | Focus Area | Stack |
+| :--- | :--- | :--- | :--- |
+| **[containers / podman](https://github.com/containers/podman)** | • [PR #29302](https://github.com/containers/podman/pull/29302): Fix `testvol` mock driver unmounted volume path error handling<br>• [PR #29300](https://github.com/containers/podman/pull/29300): Propagate `MountCount` errors in `VolumeMounted`<br>• [PR #29274](https://github.com/containers/podman/pull/29274): Clean up container hostname short ID parsing<br>• [PR #29294](https://github.com/containers/podman/pull/29294): Prevent deferred event emissions on failed container updates | OCI Container Engine &amp; Storage | `Go` `Linux` |
+| **[flatcar / Flatcar](https://github.com/flatcar/Flatcar)** | • [PR #2229](https://github.com/flatcar/Flatcar/pull/2229): **Merged** — Algorithmic refactor of `parse()` from $\mathcal{O}(n^2)$ to $\mathcal{O}(n)$ eliminating index errors<br>• [PR #2235](https://github.com/flatcar/Flatcar/pull/2235): **Merged** — Fix string interpolation quotes in metrics workflow<br>• [PR #2234](https://github.com/flatcar/Flatcar/pull/2234): Add isolated error handling for subprocesses | Container Linux OS &amp; CI/CD | `Python` `Bash` |
+| **[flatcar / nebraska](https://github.com/flatcar/nebraska)** | • [PR #1490](https://github.com/flatcar/nebraska/pull/1490): Refresh and return updated instance state on partial registration<br>• [PR #1489](https://github.com/flatcar/nebraska/pull/1489): Fix product ID regex character class typo and pre-compile pattern | Cloud-native Omaha Update Server | `Go` `SQL` |
+| **[npm / cli](https://github.com/npm/cli)** | • [PR #9763](https://github.com/npm/cli/pull/9763): Document breaking change in lifecycle script blocking for npm v12 release | Package Management Documentation | `JS` `Docs` |
+| **[DietrichGebert / ponytail](https://github.com/DietrichGebert/ponytail)** | • [PR #601](https://github.com/DietrichGebert/ponytail/pull/601): Resolve Claude.ai marketplace validation errors<br>• [PR #600](https://github.com/DietrichGebert/ponytail/pull/600): Modularize OpenCode frontmatter parser out of plugins directory | AI Agent Discipline &amp; Code Quality | `TypeScript` |
 
 ---
 
