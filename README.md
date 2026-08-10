@@ -38,10 +38,11 @@
 
 ---
 
-### 📈 Contribution Activity
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7AA2F7/prayag0one4" alt="Prayag's Github Contribution Chart" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=prayag0one4&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prayag0one4&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
