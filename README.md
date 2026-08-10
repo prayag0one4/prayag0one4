@@ -41,7 +41,7 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prayag0one4&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=7aa2f7&line=7aa2f7&point=2ac3de&area=true" width="100%" alt="Prayag's Contribution Activity Graph" />
+  <img src="https://ghchart.rshah.org/7AA2F7/prayag0one4" alt="Prayag's Github Contribution Chart" />
 </div>
 
 ---
